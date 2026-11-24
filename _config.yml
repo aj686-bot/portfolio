@@ -7,11 +7,11 @@
 
 
 # Site Settings
-title       : Alicia Wu
-name        : Alicia Wu
-
-# One line about you
-description : "Biomedical engineering student at Cornell. Interested in tissue engineering, women's health, and medical device design."           
+title                    : Your Name
+name                     : Alicia Wu
+# One line about you. It appears under your name on the home page, and it is
+# what search engines and messaging apps show when someone shares your link.
+description              : "Biomedical engineering student at Cornell. Interested in tissue engineering, women's health, and medical device design."           
 
 # Theme and Style
 theme: jekyll-theme-minimal
