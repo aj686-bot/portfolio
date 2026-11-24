@@ -15,7 +15,7 @@ description              : "Biomedical engineering student at Cornell. Intereste
 
 # Theme and Style
 theme: jekyll-theme-minimal
-color_scheme: light # light/default, dark, aqua, or desert
+color_scheme: aqua # light/default, dark, aqua, or desert
 
 sass:
   style: compressed
